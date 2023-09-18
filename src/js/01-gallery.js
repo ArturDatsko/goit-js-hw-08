@@ -22,5 +22,3 @@ const options = {
 };
 
 new SimpleLightbox('.gallery a', options);
-
-console.log(galleryItems);
